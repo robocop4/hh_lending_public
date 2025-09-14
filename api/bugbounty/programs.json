@@ -1,0 +1,26 @@
+[
+  {
+    "key": "1",
+    "logo": "tkey_logo.jpeg",
+    "name": "TKey",
+    "url": "https://bugbounty.tillitis.se/bounty-program/",
+    "email": null,
+    "сurrency": "€",
+    "min": 100, 
+    "max": 10000,
+    "short": "Tillitis develops the TKey, an open and secure hardware device designed to protect secrets like private keys through transparency and strong security principles, supported by a bug bounty program to ensure ongoing resilience.",
+    "tags": ["Open source", "Hardware"]
+  },
+  {
+    "key": "2",
+    "logo": "espocrm_logo.jpeg",
+    "name": "EspoCRM",
+    "url": "https://github.com/espocrm/espocrm/security",
+    "email": null,
+    "сurrency": null,
+    "min": 0, 
+    "max": 0,
+    "short": "EspoCRM is an open-source customer relationship management system that helps businesses organize sales, marketing, and customer support in one platform.",
+    "tags": ["Open source", "PHP"]
+  }
+]
