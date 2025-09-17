@@ -34,5 +34,17 @@
     "max": 13000,
     "short": "Matomo is an open-source web analytics platform that allows businesses to track and analyze user behavior on their websites while maintaining full data ownership and privacy.",
     "tags": ["Open source", "PHP"]
+  },
+  {
+    "key": "4",
+    "logo": "site_pro_logo.jpeg",
+    "name": "Site.pro",
+    "url": "https://site.pro/bounty/",
+    "email": null,
+    "сurrency": "€",
+    "min": 10, 
+    "max": 500,
+    "short": "Site.pro is a cloud-based website builder with a visual drag-and-drop editor and a set of templates that allows you to quickly create landing pages, corporate websites, and simple online stores.",
+    "tags": ["black box", "web"]
   }
 ]
