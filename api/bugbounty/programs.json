@@ -33,7 +33,7 @@
     "min": 333, 
     "max": 13000,
     "short": "Matomo is an open-source web analytics platform that allows businesses to track and analyze user behavior on their websites while maintaining full data ownership and privacy.",
-    "tags": ["Open source", "PHP"]
+    "tags": ["open source", "PHP"]
   },
   {
     "key": "4",
@@ -58,5 +58,18 @@
     "max": 0,
     "short": "4chan is an imageboard community where users can share images and engage in discussions across a wide range of topics.",
     "tags": ["php", "web"]
+  },
+  {
+    "key": "6",
+    "logo": "keycloak_logo.png",
+    "name": "Keycloak",
+    "url": "https://www.keycloak.org/security",
+    "email": null,
+    "сurrency": null,
+    "min": 0, 
+    "max": 0,
+    "short": "Keycloak is an open-source identity and access management solution that provides authentication, authorization, and single sign-on (SSO) for applications and services.",
+    "tags": ["open source", "java"]
   }
 ]
+
