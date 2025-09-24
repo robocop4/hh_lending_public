@@ -70,6 +70,18 @@
     "max": 0,
     "short": "Keycloak is an open-source identity and access management solution that provides authentication, authorization, and single sign-on (SSO) for applications and services.",
     "tags": ["open source", "java"]
+  },
+  {
+    "key": "7",
+    "logo": "artifex_logo.jpg",
+    "name": "Artifex",
+    "url": "https://artifex.com/developers-bug-bounty-program",
+    "email": null,
+    "сurrency": "$",
+    "min": 100, 
+    "max": 1000,
+    "short": "The Artifex Developer Bug Bounty Program is designed to improve the security and quality of their key software products — Ghostscript, GhostPDL, and MuPDF.",
+    "tags": ["open source", "c"]
   }
 ]
 
