@@ -10,7 +10,7 @@
     "max": 10000,
     "short": "Tillitis develops the TKey, an open and secure hardware device designed to protect secrets like private keys through transparency and strong security principles, supported by a bug bounty program to ensure ongoing resilience.",
     "tags": ["Open source", "Hardware"],
-    "md5": ""
+    "md5": "3a1a810e10706afd4e58afbac4cf775a"
   },
   {
     "key": "2",
@@ -23,7 +23,7 @@
     "max": 0,
     "short": "EspoCRM is an open-source customer relationship management system that helps businesses organize sales, marketing, and customer support in one platform.",
     "tags": ["Open source", "PHP"],
-    "md5": ""
+    "md5": "bcc35a0092f16d0f081b7718db95cb6c"
   },
   {
     "key": "3",
@@ -36,7 +36,7 @@
     "max": 13000,
     "short": "Matomo is an open-source web analytics platform that allows businesses to track and analyze user behavior on their websites while maintaining full data ownership and privacy.",
     "tags": ["open source", "PHP"],
-    "md5": ""
+    "md5": "966ce01466c9c899d1b4de13f222a055"
   },
   {
     "key": "4",
@@ -49,7 +49,7 @@
     "max": 500,
     "short": "Site.pro is a cloud-based website builder with a visual drag-and-drop editor and a set of templates that allows you to quickly create landing pages, corporate websites, and simple online stores.",
     "tags": ["black box", "web"],
-    "md5": ""
+    "md5": "5a5384a9f9fe13375f5c94c78c91e434"
   },
   {
     "key": "5",
@@ -62,7 +62,7 @@
     "max": 0,
     "short": "4chan is an imageboard community where users can share images and engage in discussions across a wide range of topics.",
     "tags": ["php", "web"],
-    "md5": ""
+    "md5": "9bf6865965278da1e0ed070eb471af12"
   },
   {
     "key": "6",
@@ -75,7 +75,7 @@
     "max": 0,
     "short": "Keycloak is an open-source identity and access management solution that provides authentication, authorization, and single sign-on (SSO) for applications and services.",
     "tags": ["open source", "java"],
-    "md5": ""
+    "md5": "1b2e92944ab8613d72ace11e3078856a"
   },
   {
     "key": "7",
@@ -88,7 +88,7 @@
     "max": 1000,
     "short": "The Artifex Developer Bug Bounty Program is designed to improve the security and quality of their key software products — Ghostscript, GhostPDL, and MuPDF.",
     "tags": ["open source", "c"],
-    "md5": ""
+    "md5": "7e27a7264e879ce622351349067e3ede"
   },
   {
     "key": "8",
