@@ -9,7 +9,8 @@
     "min": 100, 
     "max": 10000,
     "short": "Tillitis develops the TKey, an open and secure hardware device designed to protect secrets like private keys through transparency and strong security principles, supported by a bug bounty program to ensure ongoing resilience.",
-    "tags": ["Open source", "Hardware"]
+    "tags": ["Open source", "Hardware"],
+    "md5": ""
   },
   {
     "key": "2",
@@ -21,7 +22,8 @@
     "min": 0, 
     "max": 0,
     "short": "EspoCRM is an open-source customer relationship management system that helps businesses organize sales, marketing, and customer support in one platform.",
-    "tags": ["Open source", "PHP"]
+    "tags": ["Open source", "PHP"],
+    "md5": ""
   },
   {
     "key": "3",
@@ -33,7 +35,8 @@
     "min": 333, 
     "max": 13000,
     "short": "Matomo is an open-source web analytics platform that allows businesses to track and analyze user behavior on their websites while maintaining full data ownership and privacy.",
-    "tags": ["open source", "PHP"]
+    "tags": ["open source", "PHP"],
+    "md5": ""
   },
   {
     "key": "4",
@@ -45,7 +48,8 @@
     "min": 10, 
     "max": 500,
     "short": "Site.pro is a cloud-based website builder with a visual drag-and-drop editor and a set of templates that allows you to quickly create landing pages, corporate websites, and simple online stores.",
-    "tags": ["black box", "web"]
+    "tags": ["black box", "web"],
+    "md5": ""
   },
   {
     "key": "5",
@@ -57,7 +61,8 @@
     "min": 0, 
     "max": 0,
     "short": "4chan is an imageboard community where users can share images and engage in discussions across a wide range of topics.",
-    "tags": ["php", "web"]
+    "tags": ["php", "web"],
+    "md5": ""
   },
   {
     "key": "6",
@@ -69,7 +74,8 @@
     "min": 0, 
     "max": 0,
     "short": "Keycloak is an open-source identity and access management solution that provides authentication, authorization, and single sign-on (SSO) for applications and services.",
-    "tags": ["open source", "java"]
+    "tags": ["open source", "java"],
+    "md5": ""
   },
   {
     "key": "7",
@@ -81,7 +87,8 @@
     "min": 100, 
     "max": 1000,
     "short": "The Artifex Developer Bug Bounty Program is designed to improve the security and quality of their key software products — Ghostscript, GhostPDL, and MuPDF.",
-    "tags": ["open source", "c"]
+    "tags": ["open source", "c"],
+    "md5": ""
   },
   {
     "key": "8",
@@ -93,7 +100,8 @@
     "min": 25, 
     "max": 500,
     "short": "Conductor is a tool for remote management of Docker containers.",
-    "tags": ["open source", "golang", "libp2p"]
+    "tags": ["open source", "golang", "libp2p"],
+    "md5": ""
   }
 ]
 
