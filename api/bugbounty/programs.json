@@ -82,6 +82,18 @@
     "max": 1000,
     "short": "The Artifex Developer Bug Bounty Program is designed to improve the security and quality of their key software products — Ghostscript, GhostPDL, and MuPDF.",
     "tags": ["open source", "c"]
+  },
+  {
+    "key": "8",
+    "logo": "conductor_logo.jpg",
+    "name": "Conductor",
+    "url": null,
+    "email": "conductor@hackerhub.pro",
+    "сurrency": "$",
+    "min": 25, 
+    "max": 500,
+    "short": "Conductor is a tool for remote management of Docker containers.",
+    "tags": ["open source", "golang", "libp2p"]
   }
 ]
 
