@@ -102,6 +102,19 @@
     "short": "Conductor is a tool for remote management of Docker containers.",
     "tags": ["open source", "golang", "libp2p"],
     "md5": ""
+  },
+  {
+    "key": "9",
+    "logo": "jenkins_logo.png",
+    "name": "Jenkins",
+    "url": "https://www.jenkins.io/security/reporting/",
+    "email": null,
+    "сurrency": null,
+    "min": 0, 
+    "max": 0,
+    "short": "Jenkins is an open-source automation server widely used for building, testing, and deploying software.",
+    "tags": ["open source", "java"],
+    "md5": ""
   }
 ]
 
