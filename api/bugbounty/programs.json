@@ -115,6 +115,19 @@
     "short": "Jenkins is an open-source automation server widely used for building, testing, and deploying software.",
     "tags": ["open source", "java"],
     "md5": "f2583e4f4ac2975447b0a1d627f62516"
+  },
+  {
+    "key": "10",
+    "logo": "paritytech_logo.jpeg",
+    "name": "Parity",
+    "url": "https://www.parity.io/bug-bounty",
+    "email": null,
+    "сurrency": "$",
+    "min": 100, 
+    "max": 0,
+    "short": "Parity.io develops open-source blockchain software and infrastructure, including Polkadot and Substrate, enabling secure, scalable, and interoperable decentralized networks.",
+    "tags": ["open source", "Rust", "TypeScript"],
+    "md5": ""
   }
 ]
 
