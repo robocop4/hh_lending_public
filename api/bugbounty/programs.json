@@ -141,6 +141,19 @@
     "short": "CryptoAuthLib is an open-source cryptographic library developed by Microchip Technology to provide a consistent API for interacting with Microchip CryptoAuthentication™ devices.",
     "tags": ["open source", "C"],
     "md5": ""
+  },
+  {
+    "key": "12",
+    "logo": "zoho_logo.jpeg",
+    "name": "Zoho",
+    "url": "https://bugbounty.zoho.com/bb/info#home",
+    "email": null,
+    "сurrency": "$",
+    "min": 50, 
+    "max": 3000,
+    "short": "Zoho Office Suite is an online office suite that includes applications such as a word processor, spreadsheets, presentations, databases, notes, wikis, and a customer relationship management system.",
+    "tags": ["CRM"],
+    "md5": ""
   }
 ]
 
