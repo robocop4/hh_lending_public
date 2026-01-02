@@ -152,7 +152,7 @@
     "min": 50, 
     "max": 3000,
     "short": "Zoho Office Suite is an online office suite that includes applications such as a word processor, spreadsheets, presentations, databases, notes, wikis, and a customer relationship management system.",
-    "tags": ["CRM"],
+    "tags": ["CRM", "web"],
     "md5": ""
   }
 ]
