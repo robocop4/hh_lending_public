@@ -128,6 +128,19 @@
     "short": "Parity.io develops open-source blockchain software and infrastructure, including Polkadot and Substrate, enabling secure, scalable, and interoperable decentralized networks.",
     "tags": ["open source", "Rust", "TypeScript"],
     "md5": ""
+  },
+  {
+    "key": "11",
+    "logo": "microchip_tech_logo.png",
+    "name": "CryptoAuthLib",
+    "url": "https://github.com/MicrochipTech/cryptoauthlib/security",
+    "email": null,
+    "сurrency": null,
+    "min": 0, 
+    "max": 0,
+    "short": "CryptoAuthLib is an open-source cryptographic library developed by Microchip Technology to provide a consistent API for interacting with Microchip CryptoAuthentication™ devices.",
+    "tags": ["open source", "C"],
+    "md5": ""
   }
 ]
 
