@@ -9,7 +9,7 @@
     "min": 100, 
     "max": 10000,
     "short": "Tillitis develops the TKey, an open and secure hardware device designed to protect secrets like private keys through transparency and strong security principles, supported by a bug bounty program to ensure ongoing resilience.",
-    "tags": ["Open source", "Hardware"],
+    "tags": ["Open source", "Hardware", "Verilog"],
     "md5": "3a1a810e10706afd4e58afbac4cf775a"
   },
   {
