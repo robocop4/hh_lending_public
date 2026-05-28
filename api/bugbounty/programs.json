@@ -167,6 +167,18 @@
     "short": "A cryptocurrency exchange specializing in derivatives: futures, perpetual contracts, and options on BTC, ETH, and other cryptocurrencies.",
     "tags": ["Web", "Android", "iOS"],
     "md5": ""
+  },{
+    "key": "14",
+    "logo": "vsyshost_logo.jpg",
+    "name": "Virtual Systems",
+    "url": "https://vsys.host/bug-bounty-program",
+    "email": null,
+    "сurrency": "$",
+    "min": 0, 
+    "max": 5000,
+    "short": "Hosting provider (Virtual Systems LLC) founded in 2009, offering VPS, dedicated servers, shared hosting, and cloud infrastructure solutions.",
+    "tags": ["Web"],
+    "md5": ""
   }
 ]
 
