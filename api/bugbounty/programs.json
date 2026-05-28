@@ -1,5 +1,18 @@
 [
   {
+    "key": "13",
+    "logo": "delta_exchange_logo.jpeg",
+    "name": "Delta Exchange",
+    "url": "https://www.delta.exchange/bug-bounty-program",
+    "email": null,
+    "сurrency": "$",
+    "min": 10, 
+    "max": 1000,
+    "short": "A cryptocurrency exchange specializing in derivatives: futures, perpetual contracts, and options on BTC, ETH, and other cryptocurrencies.",
+    "tags": ["Web", "Android", "iOS"],
+    "md5": ""
+  },
+  {
     "key": "1",
     "logo": "tkey_logo.jpeg",
     "name": "TKey",
