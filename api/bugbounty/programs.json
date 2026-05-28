@@ -88,7 +88,8 @@
     "max": 1000,
     "short": "The Artifex Developer Bug Bounty Program is designed to improve the security and quality of their key software products — Ghostscript, GhostPDL, and MuPDF.",
     "tags": ["open source", "c"],
-    "md5": "7e27a7264e879ce622351349067e3ede"
+    "md5": "7e27a7264e879ce622351349067e3ede",
+    "status": "suspended"
   },
   {
     "key": "8",
