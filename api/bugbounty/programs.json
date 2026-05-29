@@ -179,6 +179,18 @@
     "short": "Hosting provider (Virtual Systems LLC) founded in 2009, offering VPS, dedicated servers, shared hosting, and cloud infrastructure solutions.",
     "tags": ["Web"],
     "md5": ""
+  },{
+    "key": "15",
+    "logo": "synology_logo.png",
+    "name": "Synology",
+    "url": "https://www.synology.com/en-eu/security/bounty_program",
+    "email": null,
+    "сurrency": "$",
+    "min": 100, 
+    "max": 3000,
+    "short": "Synology is a Taiwanese technology company that designs and manufactures network-attached storage (NAS) devices, software solutions, and cloud services for home and business users worldwide.",
+    "tags": ["Web", "Linux", "Cloud", "Hardware"],
+    "md5": ""
   }
 ]
 
