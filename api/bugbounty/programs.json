@@ -187,7 +187,7 @@
     "email": null,
     "сurrency": "$",
     "min": 100, 
-    "max": 3000,
+    "max": 30000,
     "short": "Synology is a Taiwanese technology company that designs and manufactures network-attached storage (NAS) devices, software solutions, and cloud services for home and business users worldwide.",
     "tags": ["Web", "Linux", "Cloud", "Hardware"],
     "md5": ""
