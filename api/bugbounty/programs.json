@@ -191,6 +191,18 @@
     "short": "Synology is a Taiwanese technology company that designs and manufactures network-attached storage (NAS) devices, software solutions, and cloud services for home and business users worldwide.",
     "tags": ["Web", "Linux", "Cloud", "Hardware"],
     "md5": ""
+  },{
+    "key": "16",
+    "logo": "openharmony_logo.jpg",
+    "name": "OpenHarmony",
+    "url": "https://raw.giteeusercontent.com/openharmony/security/raw/master/en/security-process/rewards_program.md",
+    "email": null,
+    "сurrency": "¥",
+    "min": 10000, 
+    "max": 1000000,
+    "short": "It is a modular, open-source operating system designed to enable seamless interaction between a wide variety of devices—from smartwatches to industrial systems—within a single ecosystem.",
+    "tags": ["C", "Hardware"],
+    "md5": ""
   }
 ]
 
